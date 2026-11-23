@@ -1,0 +1,8 @@
+{
+  "v": 1,
+  "kdf": "PBKDF2-HMAC-SHA256",
+  "salt": "sgU+NDt345wJHKJGB0yQYw==",
+  "nonce": "ikan/lnHhit9uVfw",
+  "ciphertext": "7Gs=",
+  "hmac": "cTVIH2NNMmADREA5WbEH1B203Q012wuDfnm8Jcx0rXA="
+}
